@@ -1,0 +1,1 @@
+python cpupdate_decryptor.py cpupdate.bin
